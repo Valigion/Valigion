@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valigion
 - 👀 I’m interested in C# and C++
-- 🌱 I’m currently learning software development ( sql, html, css, php, js, laravel, C#, C++, unity)
+- 🌱 I’m currently studying software development and learning ( sql, html, css, php, js, laravel, blade, nodejs, vue, C#, C++, unity)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
